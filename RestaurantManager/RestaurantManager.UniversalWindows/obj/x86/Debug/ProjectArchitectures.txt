@@ -1,0 +1,1 @@
+C:\VisualStudioFiles\RestaurantManager\RestaurantManager.UniversalWindows\RestaurantManager.UniversalWindows.csproj;x86
